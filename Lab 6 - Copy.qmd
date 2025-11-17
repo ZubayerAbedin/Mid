@@ -418,11 +418,7 @@ prediction %>%
 
 ```
 
-Which model should you present to management?
-
-::: render-commit-push
-You're done and ready to submit your work! **Save**, **stage**, **commit**, and **push** all remaining changes. You can use the commit message "Done with Lab 6!" , and make sure you have committed and pushed all changed files to GitHub (your Git pane in RStudio should be empty) and that **all** documents are updated in your repo on GitHub.
-:::
+Which model should you present to management?  - The better model is the multiplicative ETS model, based on the confidence interval and the metrics from the calibration table (try checking that).
 
 ::: callout-warning
 ## Submission
